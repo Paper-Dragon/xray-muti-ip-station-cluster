@@ -1,3 +1,9 @@
+# 该项目已经合并至 [https://github.com/Paper-Dragon/muti_xray](https://github.com/Paper-Dragon/muti_xray)
+
+
+# 本项目已经被标记为结束状态
+
+
 # 对于站群服务器模拟多xray节点的解决方案
 
 ## What it can do?
